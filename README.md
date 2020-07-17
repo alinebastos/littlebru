@@ -8,26 +8,27 @@
 
 
 ###### 📒 Education:
-      - Studying systems analysis and development - FATEC
       - Graduated in computer technician - ETEC 
+      - Studying systems analysis and development - FATEC
 
 ###### 🧠 Hard Skills:
-      - Front-end: HTML | CSS
-      - Back-end:  Python | Java | C 
-      - infrastructure: Linux
       - Agile: Scrum 
+      - Back-end:  Python | Java | C 
+      - Front-end: HTML | CSS
+      - infrastructure: Linux
       
 ###### ❤ Soft Skills:
+      - Collaborative
       - Good listener
       - Quick Learner
-      - Collaborative
       - Teamworker
       
 ###### 🌱 Currently Learning:
-      - JavaScript
-      - PHP
-      - Data Structure
       - Clean Code
+      - Data Structure
+      - Data Analysis
+      - JavaScript
+      - PHP      
       
 ###### ⚡ Fun facts:
       - Pixel Art Lover 💜
