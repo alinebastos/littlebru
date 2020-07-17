@@ -1,7 +1,40 @@
-### Hi there 👋
+# Developer :computer:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&border-radius=20px)](https://twitter.com/__littlebru)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=LinkedIn&logoColor=white&border-radius=20px)](https://twitter.com/__littlebru)
+[![Outlook Badge](https://img.shields.io/badge/-Email-ec454d?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carollquiterio@gmail.com)](mailto:brunaclegomes@outlook.com)
+[![Bruna Gomes Website](https://img.shields.io/badge/Website-Bruna-37e5a2?style=for-the-badge&logoColor=b823ea)](https://littlebru.github.io/)
 
+----------------
+
+
+###### 📒 Education:
+      - Studying systems analysis and development - FATEC
+      - Graduated in computer technician - ETEC 
+
+###### 🧠 Hard Skills:
+      - Front-end: HTML | CSS
+      - Back-end:  Python | Java | C 
+      - infrastructure: Linux
+      - Agile: Scrum 
+      
+###### ❤ Soft Skills:
+      - Good listener
+      - Quick Learner
+      - Collaborative
+      - Teamworker
+      
+###### 🌱 Currently Learning:
+      - JavaScript
+      - PHP
+      - Data Structure
+      - Clean Code
+      
+###### ⚡ Fun facts:
+      - Pixel Art Lover 💜
+      
+#### 💬 feel free to connect with me so we can share some ideas.
+      
 <!--
-**littlebru/littlebru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
