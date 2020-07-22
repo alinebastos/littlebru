@@ -25,7 +25,6 @@
 ###### 🌱 Currently Learning:
       - Clean Code
       - Data Structure
-      - Data Analysis
       - JavaScript
       - PHP      
       
