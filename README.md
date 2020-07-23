@@ -4,6 +4,7 @@
 
     Tenho 21 anos, sou apaixonada por artes e tecnologia.
     Atualmente estou estudando tecnologias voltadas para o desenvolvimento Web e Mobile com tecnologias Híbridas
+    
 ----------------
 
 ###### 📒 Formação:
@@ -31,6 +32,8 @@
       - Amante e Criadora de Pixel Art 💜
       - Curto estudar sobre markdown para deixa-los mais estilosos 😎
       
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=littlebru&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/littlebru)
 -----------------------
 
 #### 💬 Sinta-se a vontade para se conectar comigo nas redes sociais para bater um papo ou compartilhar ideias
