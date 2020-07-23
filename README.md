@@ -1,37 +1,40 @@
-# Developer :computer:
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=LinkedIn&logoColor=white&border-radius=20px)](https://www.linkedin.com/in/bruna-gomes-a8739014b?trk=people-guest_people_search-card)
-[![Outlook Badge](https://img.shields.io/badge/-Email-ec454d?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carollquiterio@gmail.com)](mailto:brunaclegomes@outlook.com)
-[![Bruna Gomes Website](https://img.shields.io/badge/Website-Bruna-37e5a2?style=for-the-badge&logoColor=b823ea)](https://littlebru.github.io/)
+# Olá, me chamo Bruna 👋
+[![Bruna Gomes Website](https://img.shields.io/badge/Acessar-Meu_Site-37e5a2?style=for-the-badge&logoColor=b823ea)](https://littlebru.github.io/)
 
+    Tenho 21 anos, sou apaixonada por artes e tecnologia.
+    Atualmente estou estudando tecnologias voltadas para o desenvolvimento Web e Mobile com tecnologias Híbridas
 ----------------
 
-
-###### 📒 Education:
-      - Graduated in computer technician - ETEC 
-      - Studying systems analysis and development - FATEC
-
-###### 🧠 Hard Skills:
-      - Agile: Scrum 
-      - Back-end:  Python | Java | C 
-      - Front-end: HTML | CSS
-      - infrastructure: Linux
+###### 📒 Formação:
+      - Formada em Técnico Informática - ETEC 
+      - Cursando Análise e Desenvolvimento de Sistemas - FATEC
       
-###### ❤ Soft Skills:
-      - Collaborative
-      - Good listener
-      - Quick Learner
-      - Teamworker
+###### 🧠 Meus Conhecimentos:
+###### Front-end:
+       HTML
+       CSS 
+###### Back-end:
+       Javascript
+       Java
+       C
+###### Banco de Dados:
+       SQL
       
-###### 🌱 Currently Learning:
-      - Clean Code
-      - Data Structure
-      - JavaScript
-      - PHP      
+###### 🌱 Atualmente estou aprendendo sobre:
+      - Conceitos do Código Limpo (Clean Code)
+      - Consultas avançadas com SQL
+      - JavaScript Orientado a Objetos
+      - React e React Native     
       
-###### ⚡ Fun facts:
-      - Pixel Art Lover 💜
+###### ⚡ Fatos aleatórios:
+      - Amante e Criadora de Pixel Art 💜
+      - Curto estudar sobre markdown para deixa-los mais estilosos 😎
       
-#### 💬 feel free to connect with me so we can share some ideas.
+#### 💬 Sinta-se a vontade para se conectar comigo nas redes sociais para bater um papo ou compartilhar ideias
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=LinkedIn&logoColor=white&border-radius=20px)](https://www.linkedin.com/in/bruna-gomes-a8739014b?trk=people-guest_people_search-card)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=Twitter&logoColor=white&border-radius=20px)](https://twitter.com/__littlebru?s=09)
+[![Outlook Badge](https://img.shields.io/badge/Enviar-Email-ec454d?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunaclegomes@outlook.com)](mailto:brunaclegomes@outlook.com)
+[![Bruna Gomes Website](https://img.shields.io/badge/Acessar-Meu_Site-37e5a2?style=for-the-badge&logoColor=b823ea)](https://littlebru.github.io/)
       
 <!--
 
