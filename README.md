@@ -2,8 +2,8 @@
 [![Bruna Gomes Website](https://img.shields.io/badge/Acessar-Meu_Site-42c98e?style=for-the-badge&logoColor=b823ea)](https://littlebru.github.io/)
 [![Outlook Badge](https://img.shields.io/badge/Enviar-Email-ec454d?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunaclegomes@outlook.com)](mailto:brunaclegomes@outlook.com)
 
-    Tenho 21 anos, sou apaixonada por artes e tecnologia.
-    Atualmente estou estudando tecnologias voltadas para o desenvolvimento Web e Mobile com tecnologias Híbridas
+ <p>Tenho 21 anos, sou apaixonada por artes e tecnologia. 
+ Atualmente estou estudando tecnologias voltadas para o desenvolvimento Web e Mobile com tecnologias Híbridas</p>
     
 ----------------
 
