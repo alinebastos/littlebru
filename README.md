@@ -7,6 +7,8 @@
     
 ----------------
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true)
+
 ###### 📒 Formação:
       - Formada em Técnico Informática - ETEC 
       - Cursando Análise e Desenvolvimento de Sistemas - FATEC
@@ -32,8 +34,6 @@
       - Amante e Criadora de Pixel Art 💜
       - Curto estudar sobre markdown para deixa-los mais estilosos 😎
       
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=littlebru&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/littlebru)
 -----------------------
 
 #### 💬 Sinta-se a vontade para se conectar comigo nas redes sociais para bater um papo ou compartilhar ideias
