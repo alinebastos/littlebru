@@ -37,8 +37,11 @@
 </p>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Atualmente estou estudando tecnologias voltadas para o <b>Desenvolvimento Web</b>.
-  
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  ![Github Stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true" align="center">
+
 
 <!--
 status no github
