@@ -3,18 +3,11 @@
 </h4>
 <p align="center">
   <a
-    href="http://littlebru.io"
+    href="https://littlebru.github.io"
     alt="Bruna Gomes"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-bruna.io-28A745?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a
-    href="https://wa.me/12997401710" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-website-28A745?style=flat&logo=profile&logoColor=white" />
   </a>
   <a
     href="mailto:brunaclegomes@outlook.com" 
@@ -38,7 +31,6 @@
     <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
   </a>
 </p>
-🎓
 <p align="center">
   📚 <b>Analysis and Systems Development</b> - Faculdade de Tecnologia de São José dos Campos &nbsp; 🎓 <br/>Computer Technician</b> - Escola Técnica Estadual de São José dos Campos
 </p>
