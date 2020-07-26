@@ -1,5 +1,5 @@
 <h4 align="center">
-  Hi, I'm Bruna! 👋
+  Olá, eu me chamo Bruna! 👋
 </h4>
 <p align="center">
   <a
@@ -32,16 +32,17 @@
   </a>
 </p>
 <p align="center">
-  📚 <b>Analysis and Systems Development</b> - Faculdade de Tecnologia de São José dos Campos &nbsp; 🎓 <br/>Computer Technician</b> - Escola Técnica Estadual de São José dos Campos
+  📚 <b>Cursando Análise e Desenvolvimento de Sistemas</b> - Faculdade de Tecnologia de São José dos Campos &nbsp;<br/>
+  🎓 <b>Técnica em Informática</b> - Escola Técnica Estadual de São José dos Campos
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Focused in <b>Web Development</b>, <b>Javascript</b> and <b>React</b>
-</p>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Atualmente estou estudando tecnologias voltadas para o <b>Desenvolvimento Web</b>.
   
-    
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Github Stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true)
+
 <!--
 status no github
-![Github Stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true)
+
 
 ###### 📒 Formação:
       - Formada em Técnico Informática - ETEC 
