@@ -36,13 +36,15 @@
       - JavaScript Orientado a Objetos
       - React e React Native     
       
+
+-----------------------
+    
+<!--
+
 ###### ⚡ Fatos aleatórios:
       - Amante e Criadora de Pixel Art 💜
       - Curto estudar sobre markdown para deixa-los mais estilosos 😎
       
------------------------
-    
-<!--
 
 Here are some ideas to get you started:
 
