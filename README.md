@@ -8,7 +8,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=LinkedIn&logoColor=white&border-radius=20px)](https://www.linkedin.com/in/bruna-gomes-a8739014b?trk=people-guest_people_search-card)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=Twitter&logoColor=white&border-radius=20px)](https://twitter.com/__littlebru?s=09)
-[![Outlook Badge](https://img.shields.io/badge/Enviar-Email-ec454d?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunaclegomes@outlook.com)](mailto:brunaclegomes@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/Email-ec454d?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunaclegomes@outlook.com)](mailto:brunaclegomes@outlook.com)
   
 ----------------
 
