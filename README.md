@@ -1,6 +1,6 @@
-<h4 align="center">
+<h2 align="center">
   Olá, eu me chamo Bruna! 👋
-</h4>
+</h2>
 <p align="center">
   <a
     href="https://littlebru.github.io"
