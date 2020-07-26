@@ -18,9 +18,10 @@
        HTML
        CSS 
 ###### Back-end:
+       C
        Javascript
        Java
-       C
+       Python
 ###### Banco de Dados:
        SQL
       
