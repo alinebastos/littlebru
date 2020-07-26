@@ -38,10 +38,7 @@
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Atualmente estou estudando tecnologias voltadas para o <b>Desenvolvimento Web</b>.
 
-<br>
-<br>
-
-<canva src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true" align="center"></canva>
+<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true">
 
 
 <!--
