@@ -48,6 +48,8 @@ Sou a Bruna, tenho 21 anos, moro em São José dos Campos/SP e sou apaixonada po
 <p align="center">
 Sou iniciante no universo da programação, e estou me divertindo com os desafios que surgem e me fazem gastar toda a bateria do cérebro e também estou desenvolvendo meu portifólio, para apresentar os projetos que realizei e participei
 </p>
+
+ --------------
  
 <h5 align="center">🧠 Meus Conhecimentos:</h5>
 
