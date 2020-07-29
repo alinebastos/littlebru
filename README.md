@@ -1,45 +1,6 @@
-<h2 align="center">
-  Olá, eu me chamo Bruna! 👋
-</h2>
-<p align="center">
-  <a
-    href="https://littlebru.github.io"
-    alt="Bruna Gomes"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-website-28A745?style=flat&logo=profile&logoColor=white" />
-  </a>
-  <a
-    href="mailto:brunaclegomes@outlook.com" 
-    alt="Outlook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Outlook-28A745?style=flat&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.linkedin.com/in/bruna-gomes-a8739014b?trk=people-guest_people_search-card" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a
-    href="https://github.com/littlebru/"
-    alt="GitHub"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  📚 <b>Cursando Análise e Desenvolvimento de Sistemas</b> - Faculdade de Tecnologia de São José dos Campos &nbsp;<br/>
-  🎓 <b>Técnica em Informática</b> - Escola Técnica Estadual de São José dos Campos
-</p>
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Atualmente estou estudando tecnologias voltadas para o <b>Desenvolvimento Web</b>.
-
-<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true">
-
+## Olá, sou a Bruna! 🖖🏽
+Tenho 21 anos, moro em São José dos Campos/SP e sou apaixonada por programação, coisas relacionadas a ciência e arte!<br>
+Sou iniciante no universo da programação, e estou me divertindo com os desafios que surgem e me fazem utilizar toda a bateria do cérebro.🤯
 
 <!--
 status no github
