@@ -39,15 +39,17 @@
 
 <p align="center">
 Sou a Bruna, tenho 21 anos, moro em São José dos Campos/SP e sou apaixonada por programação e Pixel Art!<br>
-
-<img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="200px">
 </p>
-
-<p align="center">🔭 Estou em busca da primeira oportunidade para poder trabalhar com Desenvolvimento Web</p>
 
 <p align="center">
 Sou iniciante no universo da programação, e estou me divertindo com os desafios que surgem e me fazem gastar toda a bateria do cérebro e também estou desenvolvendo meu portifólio, para apresentar os projetos que realizei e participei
 </p>
+
+<p align="center">
+<img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="200px">
+</p>
+
+<p align="center">🔭 Estou em busca da primeira oportunidade para poder trabalhar com Desenvolvimento Web</p>
 
  --------------
  
