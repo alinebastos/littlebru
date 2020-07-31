@@ -53,7 +53,7 @@ Sou iniciante no universo da programação, e estou me divertindo com os desafio
 
  --------------
  
-<h5 align="center">🧠 Meus Conhecimentos:</h5>
+<h4 align="center">🧠 Meus Conhecimentos:</h4>
 
 ###### Front-end:
        HTML
