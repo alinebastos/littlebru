@@ -1,4 +1,4 @@
-<h2 align="center"> Hello, Dev! 🖖🏽</h2>
+<h2 align="center"> Hello There! 🖖🏽</h2>
 <p align="center">
   <a
     href="https://littlebru.github.io"
@@ -38,37 +38,35 @@
 </p>
 
 <p align="center">
-Sou a Bruna, tenho 21 anos, moro em São José dos Campos/SP e sou apaixonada por programação e Pixel Art!<br>
+ My name is Bruna Gomes from Brazil, São José dos Campos/SP.<br/>
+ Studying, 4th period, Systems Development Analyses at the Fatec - São José dos Campos.<br/>
+ Passionate about pixel art and technology<br>
 </p>
 
 <p align="center">
-Sou iniciante no universo da programação, e estou me divertindo com os desafios que surgem e me fazem gastar toda a bateria do cérebro e também estou desenvolvendo meu portifólio, para apresentar os projetos que realizei e participei.
+In my free time, I like watching movies and series, drawing art in pixel and explore somenthing new.
 </p>
 
 <p align="center">
 <img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="200px">
 </p>
 
-<p align="center">🔭 Estou em busca da primeira oportunidade para poder trabalhar com Desenvolvimento Web</p>
-
  --------------
  
-<h4 align="center">🧠 Meus Conhecimentos:</h4>
+## 🚀 Technologies
 
-###### Front-end:
-       HTML
-       CSS 
-###### Back-end:
-       Javascript
-       Java
-       Python
-###### Banco de Dados:
-       SQL
-      
-###### 🌱 Atualmente estou aprendendo sobre:
-      - Consultas avançadas com SQL
-      - JavaScript Orientado a Objetos
-      - React e React Native     
+- ReactJS
+- Javascript
+- HTML
+- CSS
+- React Slick
+- Github API
+- Axios
+
+## 🌱 Currently Learning about:
+      - SQL Advanced
+      - OOP with Javascript
+      - React     
       
 <!--
 -----------------------
