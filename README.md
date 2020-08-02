@@ -51,12 +51,11 @@ In my free time, I like watching movies and series, drawing art in pixel and exp
 <img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="200px">
 </p>
 
- --------------
  
  <h2 align="center">🚀 Technologies</h2>
 - technologies here
 
-## 🌱 Currently Learning about:
+<h2 align="center">🌱 Currently Learning about:</h2>
       - SQL Advanced
       - OOP with Javascript
       - React     
