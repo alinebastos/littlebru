@@ -53,15 +53,8 @@ In my free time, I like watching movies and series, drawing art in pixel and exp
 
  --------------
  
-## 🚀 Technologies
-
-- ReactJS
-- Javascript
-- HTML
-- CSS
-- React Slick
-- Github API
-- Axios
+ <h2 align="center">🚀 Technologies</h2>
+- technologies here
 
 ## 🌱 Currently Learning about:
       - SQL Advanced
@@ -70,12 +63,6 @@ In my free time, I like watching movies and series, drawing art in pixel and exp
       
 <!--
 -----------------------
-
-
-###### ⚡ Fatos aleatórios:
-      - Amante e Criadora de Pixel Art 💜
-      - Curto estudar sobre markdown para deixa-los mais estilosos 😎
-      
 
 Here are some ideas to get you started:
 
