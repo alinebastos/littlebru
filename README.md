@@ -72,7 +72,7 @@ In my free time, I like watching movies and series, drawing some pixel arts and 
   <li>React</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=37f093&title_color=db8fff&text_color=7e8782"/>
 
 <!--
 -----------------------
