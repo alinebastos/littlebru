@@ -50,6 +50,8 @@
 <p align="center">
 In my free time, I like watching movies and series, drawing some pixel arts and teach or learning somenthing new with my sisters.
 </p>
+
+----------
  
  <h3 align="left">Languages and Tools</h3>
 
@@ -61,6 +63,7 @@ In my free time, I like watching movies and series, drawing some pixel arts and 
 <img align="left" align="left" title="Git" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="CSS3" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+</br>
 <br/>
 
 <h3 align="left"> Currently Learning about:</h3>
