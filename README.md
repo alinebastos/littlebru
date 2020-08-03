@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- My name is Bruna Gomes from Brazil, São José dos Campos/SP.<br/>
+ My name is Bruna Gomes<br> I'm from Brazil, São José dos Campos/SP.<br/>
  Studying, 4th period, Systems Development Analyses at the Fatec - São José dos Campos.<br/>
  Passionate about pixel art and technology<br>
 </p>
