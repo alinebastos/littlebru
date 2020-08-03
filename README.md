@@ -44,13 +44,12 @@
 </p>
 
 <p align="center">
-In my free time, I like watching movies and series, drawing some pixel arts and teach or learning somenthing new with my sisters.
-</p>
-
-<p align="center">
 <img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="150px">
 </p>
 
+<p align="center">
+In my free time, I like watching movies and series, drawing some pixel arts and teach or learning somenthing new with my sisters.
+</p>
  
  <h3 align="left">Languages and Tools</h3>
 
@@ -60,13 +59,13 @@ In my free time, I like watching movies and series, drawing some pixel arts and 
 <img align="left" title="SQL" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" title="MySQL" alt="MySQL" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" align="left" title="Git" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" title="Github API" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" title="CSS3" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <br/>
+
 <h3 align="left"> Currently Learning about:</h3>
 
-<ul>
+<ul line-height="10px">
   <li>Advanced SQL Querys </li>
   <li>OOP in Javascript</li>
   <li>React</li>
