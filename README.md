@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="100px">
+<img src="https://github.com/littlebru/littlebru/blob/master/dino.png" width="100px">
 </p>
 
 <p align="center">
