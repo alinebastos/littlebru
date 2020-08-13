@@ -5,35 +5,35 @@
     alt="Bruna Gomes"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-website-FAC48E?style=flat&logo=profile&logoColor=white" />
+    <img src="https://img.shields.io/badge/-website-575A5E?style=flat&logo=profile&logoColor=white" />
   </a>
   <a
     href="mailto:brunaclegomes@outlook.com" 
     alt="Outlook"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Outlook-FAE970?style=flat&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Outlook-575A5E?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/bruna-gomes-a8739014b?trk=people-guest_people_search-card" 
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-58FA60?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-575A5E?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://github.com/littlebru/"
     alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-A2E6FA?style=flat&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-575A5E?style=flat&logo=Github&logoColor=white" />
   </a>
 <a
     href="https://twitter.com/__littlebru?s=09"
     alt="Twitter"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Twitter-B5A7FA?style=flat&logo=Twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-575A5E?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
 
@@ -44,11 +44,11 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="150px">
+<img src="https://github.com/littlebru/littlebru/blob/master/dino.gif" width="100px">
 </p>
 
 <p align="center">
-In my free time, I like watching movies and series, drawing some pixel arts and teach or learning somenthing new with my sisters.
+Always learning somenthing new
 </p>
 
 ----------
