@@ -5,35 +5,35 @@
     alt="Bruna Gomes"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-website-575A5E?style=flat&logo=profile&logoColor=white" />
+    <img src="https://img.shields.io/badge/-website-2DC479?style=flat&logo=profile&logoColor=white" />
   </a>
   <a
     href="mailto:brunaclegomes@outlook.com" 
     alt="Outlook"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Outlook-575A5E?style=flat&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Outlook-b569db?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/bruna-gomes-a8739014b?trk=people-guest_people_search-card" 
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-575A5E?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-b569db?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://github.com/littlebru/"
     alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-575A5E?style=flat&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-b569db?style=flat&logo=Github&logoColor=white" />
   </a>
 <a
     href="https://twitter.com/__littlebru?s=09"
     alt="Twitter"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Twitter-575A5E?style=flat&logo=Twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-b569db?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
 
@@ -77,7 +77,9 @@ Always learning somenthing new
 -----------
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=37f093&title_color=b569db&text_color=636263&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=37f093&title_color=b569db&text_color=CCD4E3&bg_color=2C2C2E&hide_border=true"/>
+
+
 
 <!--
 -----------------------
