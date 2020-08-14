@@ -44,11 +44,11 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/littlebru/littlebru/blob/master/dino.png" width="15%">
+<img src="https://github.com/littlebru/littlebru/blob/master/dino.png" width="120px">
 </p>
 
 <p align="center">
-Always learning somenthing new
+Always learning something new
 </p>
 
 ----------
@@ -105,4 +105,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
