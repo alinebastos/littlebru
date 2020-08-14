@@ -77,12 +77,14 @@ Always learning somenthing new
 -----------
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=37f093&title_color=b569db&text_color=CCD4E3&bg_color=2C2C2E&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=37f093&title_color=b569db&text_color=2C2C2E&hide_border=true"/>
 
 
 
 <!--
 -----------------------
+
+<img src="https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=37f093&title_color=b569db&text_color=CCD4E3&bg_color=2C2C2E&hide_border=true"/>
 
 <a href="https://twitter.com/__littlebru">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
