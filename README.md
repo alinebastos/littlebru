@@ -8,12 +8,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&hide=jupyter%20notebook,html&layout=compact&hide_border=true)
 
 ------------------
-<h2></h2>
+
+<h2>About me</h2>
 
 <ul>
  <li>🌱 Learning more about and studying: <strong>Javascript</strong>, <strong>Advanced SQL Querys</strong> and <strong>UI Design</strong></li>
  <li>👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation</li>
- <li>💬 Ask me about:  <strong>C<strong>, <strong>Java<strong>, <strong>Cooking recipes<strong> and other thing. I will be happy to talk with you 😄</li>
+ <li>💬 Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Cooking recipes</strong> and other things. I will be happy to talk with you 😄</li>
  <li>⚡ Fun fact: I ❤ animals, pixel art, cooking, games and solve problems. 🤭</li>
 </ul>
 
@@ -21,7 +22,7 @@
 
 <ul>
  <li>💼 connecting and sharing professional updates on <a href="https://www.linkedin.com/in/bru-gomes">LinkedIn</a> </li>
- <li>You can find me on <a href="https://twitter.com/__littlebru?s=09">Twitter</a> where I show my projects</li>
+ <li>👀 You can find me on <a href="https://twitter.com/__littlebru?s=09">Twitter</a> and see my projects</li>
 </ul>
 
 <p>or Send me an  <a href="mailto:brunaclegomes@outlook.com">Email 💌</a></p>
