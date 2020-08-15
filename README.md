@@ -11,19 +11,17 @@
 
 <h2>About me</h2>
 
-<ul>
- <li> 🌱 Learning more about and studying: <strong>Javascript</strong>, <strong>Advanced SQL Querys</strong> and <strong>UI Design</strong></li>
- <li> 👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation</li>
- <li> 💬 Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Cooking recipes</strong> and other things. I will be happy to talk with you</li>
- <li> I ❤ animals, pixel art, cooking, games and solve problems. 🤭</li>
-</ul>
+🌱 Learning more about and studying: <strong>Javascript</strong>, <strong>Advanced SQL Querys</strong> and <strong>UI Design</strong><br>
+👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation<br>
+💬 Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Cooking recipes</strong> and other things. I will be happy to talk with you<br>
+I ❤ animals, pixel art, cooking, games and solve problems. 🤭<br><br>
+
 
 <h4>Find me on the web 🌎:</h4>
 
-<ul>
- <li>💼 connecting and sharing professional updates on <a href="https://www.linkedin.com/in/bru-gomes">LinkedIn</a> </li>
- <li>👀 Follow me on <a href="https://twitter.com/__littlebru?s=09">Twitter</a> to see my projects or to say <code>hi!"</code></li>
-</ul>
+💼 connecting and sharing professional updates on <a href="https://www.linkedin.com/in/bru-gomes">LinkedIn</a><br>
+👀 Follow me on <a href="https://twitter.com/__littlebru?s=09">Twitter</a> to see my projects or to say <code>hi!"</code><br>
+
 
 <p>or Send me an  <a href="mailto:brunaclegomes@outlook.com">Email 💌</a></p>
 
