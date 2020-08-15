@@ -20,7 +20,7 @@ I ❤ animals, pixel art, cooking, games and solve problems. 🤭<br><br>
 <h4>Find me on the web 🌎:</h4>
 
 💼 connecting and sharing professional updates on <a href="https://www.linkedin.com/in/bru-gomes">LinkedIn</a><br>
-👀 Follow me on <a href="https://twitter.com/__littlebru?s=09">Twitter</a> to see my projects or to say <code>hi!"</code><br>
+👀 Follow me on <a href="https://twitter.com/__littlebru?s=09">Twitter</a> to see my projects or to say <code>"hi!"</code><br>
 
 
 <p>or Send me an  <a href="mailto:brunaclegomes@outlook.com">Email 💌</a></p>
