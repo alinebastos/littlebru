@@ -4,8 +4,8 @@
 <img src="https://github.com/littlebru/littlebru/blob/master/Banner-Profile.png" alt="Banner Profile" width="100%">
 </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=B8C5E4&title_color=FFCC0B&text_color=37383B&hide_border=true)](https://github.com/littlebru)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&hide=jupyter%20notebook,html&layout=compact&hide_border=true)](https://github.com/littlebru)
+![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=B8C5E4&title_color=FFCC0B&text_color=37383B&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlebru&hide=jupyter%20notebook,html&layout=compact&hide_border=true)
 
 ------------------
 <h2></h2>
