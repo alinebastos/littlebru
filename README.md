@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 🤓 I'm always learning <br>
-🌱 Learning more about and studying: <strong>Javascript</strong>, <strong>Advanced SQL Querys</strong> and <strong>UI Design</strong><br>
+🌱 I'm currently learning about: <strong>Javascript</strong>, <strong>Advanced SQL Querys</strong> and <strong>UI Design</strong><br>
 👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation<br>
 💬 Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Cooking recipes</strong> and other things. I will be happy to talk with you<br>
 I ❤ animals, pixel art, cooking, games and solve problems. 🤭<br><br>
