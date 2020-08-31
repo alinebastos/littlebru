@@ -1,7 +1,9 @@
 
 
 <p align="center">
-<img src="https://github.com/littlebru/littlebru/blob/master/Banner-Profile.png" alt="Banner Profile" width="100%">
+ <a href="https://www.linkedin.com/in/bru-gomes">
+  <img src="https://github.com/littlebru/littlebru/blob/master/Banner-Profile.png" alt="Banner Profile" width="100%" title="Hello there 👋🏾">
+ </a>
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=littlebru&show_icons=true&icon_color=cacaca&title_color=e2563e&text_color=33333B&hide_border=true&hide=prs,issues)
