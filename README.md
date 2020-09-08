@@ -15,13 +15,13 @@
 
 <p align="center">👩🏽‍🦱 <br>
 I am always willing to help other people, and I learn a lot in the process.<br>
-I am a communicative, good listener, hardworking, dedicated to studies, and improving my learning day by day.
+I am a communicative, good listener, hardworking, dedicated to studies.
 <p>
 
 🤓 I'm always learning <br>
-🌱 I'm currently learning about: <strong>Java</strong>, and <strong>Microservices</strong><br>
+🌱 I'm currently learning about: <strong>Java</strong>, <strong>Design Patterns</strong> and <strong>Microservices</strong><br>
 👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation<br>
-💬 Ask me about:  <strong>Java</strong>, <strong>discoveries of science</strong> ,  <strong>Astronomy</strong> and other things. I will be happy to talk with you<br>
+💬 Ask me about:  <strong>Java</strong>, <strong>Science</strong> ,  <strong>Astronomy</strong> and other things. I will be happy to talk with you<br>
 
 
 
