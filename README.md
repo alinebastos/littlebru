@@ -11,17 +11,14 @@
 
 ------------------
 
-<h2>About me</h2>
+<h2>About me</h2><br>
 
-<p align="center">👩🏽‍🦱 <br>
-I am always willing to help other people, and I learn a lot in the process.<br>
-I am a communicative, good listener, hardworking, dedicated to studies.
-<p>
-
-🤓 I'm always learning <br>
-🌱 I'm currently learning about: <strong>Java</strong>, <strong>Design Patterns</strong> and <strong>Microservices</strong><br>
-👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation<br>
-💬 Ask me about:  <strong>Java</strong>, <strong>Science</strong> ,  <strong>Astronomy</strong> and other things. I will be happy to talk with you<br>
+👩🏽‍🦱   I am always willing to help other people, and I learn a lot in the process.<br><br>
+⭐️ I am a communicative, good listener, hardworking, dedicated to studies.<br><br>
+🤓 I'm always learning <br><br>
+🌱 I'm currently learning about: <strong>Java</strong>, <strong>Design Patterns</strong> and <strong>Microservices</strong><br><br>
+👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation<br><br>
+💬 Ask me about:  <strong>Java</strong>, <strong>Science</strong> ,  <strong>Astronomy</strong> and other things. I will be happy to talk with you<br><br>
 
 
 
