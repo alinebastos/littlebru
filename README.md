@@ -16,7 +16,11 @@
 🌱 I'm currently learning about: <strong>Javascript</strong>, and <strong>Advanced SQL Querys</strong><br>
 👯 I’m looking to collaborate on open-source projects to translate documents or help with code implementation<br>
 💬 Ask me about:  <strong>C</strong>, <strong>Java</strong>, <strong>Cooking recipes</strong> and other things. I will be happy to talk with you<br>
-I ❤ animals, nature, pixel art, cooking, games and solve problems. 🤭<br><br>
+
+<p align="center">👩🏽‍🦱 <br>
+I am always willing to help other people, and I learn a lot in the process.<br>
+I am a communicative, good listener, hardworking, dedicated to studies, and improving my learning day by day.
+<p>
 
 
 <h4>Find me on the web 🌎:</h4>
