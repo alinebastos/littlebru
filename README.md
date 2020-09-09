@@ -30,8 +30,6 @@
 
 <p>or Send me an  <a href="mailto:brunaclegomes@outlook.com">Email 💌</a></p>
 
-<h3 align="center">I will be happy to meet you 😄</h3>
-
 
 <!--
 Here are some ideas to get you started:
